@@ -3,25 +3,29 @@ Avaliação prática sobre introdução a CSS
 
 ## Atividade: Formatação CSS do arquivo exemplo.html
 
-Esta atividade tem como objetivo praticar a aplicação de CSS externo no arquivo `exemplo.html`, utilizando diferentes tipos de seletores e propriedades básicas do CSS.
+Esta atividade tem como objetivo praticar a aplicação de CSS externo e tem como exemplo a estrutura proposta na atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao) e no arquivo `exemplo.html`.
+Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 
 ### Instruções Gerais
-- Crie um arquivo CSS externo chamado `estilo.css`
-- Vincule o arquivo CSS ao `exemplo.html` usando a tag `<link>` no `<head>`
-- Complete todas as tarefas abaixo aplicando os estilos especificados
+- [ ] Faça um fork desse repositório para o professor poder acompanhar;
+- [ ] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [ ] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [ ] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [ ] Complete todas as tarefas abaixo aplicando os estilos especificados
 
 ---
 
 ## Checklist de Tarefas
 
 ### 1. Configuração Inicial
-- [ ] Criar o arquivo `estilo.css` na raiz do projeto
-- [ ] Adicionar a tag `<link rel="stylesheet" href="estilo.css">` no `<head>` do arquivo `exemplo.html`
+- [ ] Criar o arquivo `pg-pessoal.css` na raiz do projeto
+- [ ] Adicionar a tag `<link rel="stylesheet" href="pg-pessoal.css">` no `<head>` do arquivo `index.html`
 
 ### 2. Seletor Universal
 - [ ] Aplicar o seletor universal (`*`) para resetar margens e paddings de todos os elementos
   - `margin: 0;`
   - `padding: 0;`
+  - `box-sizing: border-box;`
 
 ### 3. Seletores de Elemento - Corpo da Página
 - [ ] Estilizar o elemento `body`:
@@ -91,16 +95,17 @@ Esta atividade tem como objetivo praticar a aplicação de CSS externo no arquiv
   - `font-size: 14px;`
 
 ### 7. Experimentação e Personalização
-- [ ] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML
+- [ ] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
 - [ ] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
 - [ ] Utilizar pelo menos 3 cores diferentes usando `color`
 - [ ] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
 - [ ] Verificar se o arquivo CSS está corretamente vinculado ao HTML
-- [ ] Abrir o arquivo `exemplo.html` no navegador e confirmar que todos os estilos foram aplicados
+- [ ] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
 - [ ] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
 - [ ] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
+- [ ] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
 
 ---
 
@@ -115,3 +120,12 @@ Esta atividade tem como objetivo praticar a aplicação de CSS externo no arquiv
 - **Seletor Universal** (`*`): Seleciona todos os elementos
 - **Seletor de Elemento** (ex: `h1`, `p`, `div`): Seleciona elementos específicos por sua tag HTML
 - **Seletor de Classe** (`.nome-da-classe`): Seleciona elementos que possuem a classe especificada
+
+---
+
+## Desafios
+- Modificar as bordas, principalmente da tag `div`
+- Utilizar imagens e fazer formatos criar classes específicas com `ícones` e `avatar`
+- Modificar a tipografia usando por exemplo a tag `font-family`
+- Colocar o `div` com a sua identificação fixa no topo da página
+- Se já conhece CSS, usar o [tailwindcss](https://tailwindcss.com/) no lugar do CSS puro
