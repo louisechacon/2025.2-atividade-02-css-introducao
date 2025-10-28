@@ -7,10 +7,10 @@ Esta atividade tem como objetivo praticar a aplicação de CSS externo e tem com
 Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 
 ### Instruções Gerais
-- [ ] Faça um fork desse repositório para o professor poder acompanhar;
-- [ ] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
-- [ ] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
-- [ ] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [X] Faça um fork desse repositório para o professor poder acompanhar;
+- [X] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [X] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [X] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
 - [ ] Complete todas as tarefas abaixo aplicando os estilos especificados
 
 ---
