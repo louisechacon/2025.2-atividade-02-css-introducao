@@ -70,42 +70,42 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 - [x] Estilizar o elemento `div`:
   - `text-align: left;`
 
-- [ ] Estilizar o elemento `span`:
+- [X] Estilizar o elemento `span`:
   - `color: #0066cc;`
   - `font-size: 14px;`
 
 ### 6. Seletores de Classe
-- [ ] Adicionar a classe `destaque` a pelo menos 2 elementos `<p>` no HTML
-- [ ] Criar o seletor `.destaque` no CSS com:
+- [X] Adicionar a classe `destaque` a pelo menos 2 elementos `<p>` no HTML
+- [X] Criar o seletor `.destaque` no CSS com:
   - `color: #e74c3c;`
   - `font-size: 16px;`
 
-- [ ] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
-- [ ] Criar o seletor `.secao` no CSS com:
+- [X] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
+- [X] Criar o seletor `.secao` no CSS com:
   - `text-align: center;`
 
-- [ ] Adicionar a classe `link-social` aos elementos `<span>` que contêm links (LinkedIn e GitHub)
-- [ ] Criar o seletor `.link-social` no CSS com:
+- [X] Adicionar a classe `link-social` aos elementos `<span>` que contêm links (LinkedIn e GitHub)
+- [X] Criar o seletor `.link-social` no CSS com:
   - `color: #16a085;`
   - `font-size: 15px;`
 
-- [ ] Adicionar a classe `tecnologia` aos elementos `<span>` que contêm nomes de tecnologias
-- [ ] Criar o seletor `.tecnologia` no CSS com:
+- [X] Adicionar a classe `tecnologia` aos elementos `<span>` que contêm nomes de tecnologias
+- [X] Criar o seletor `.tecnologia` no CSS com:
   - `color: #8e44ad;`
   - `font-size: 14px;`
 
 ### 7. Experimentação e Personalização
-- [ ] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
-- [ ] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
-- [ ] Utilizar pelo menos 3 cores diferentes usando `color`
-- [ ] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
+- [x] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
+- [x] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
+- [x] Utilizar pelo menos 3 cores diferentes usando `color`
+- [x] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
-- [ ] Verificar se o arquivo CSS está corretamente vinculado ao HTML
-- [ ] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
-- [ ] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
-- [ ] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
-- [ ] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
+- [x] Verificar se o arquivo CSS está corretamente vinculado ao HTML
+- [x] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
+- [x] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
+- [x] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
+- [x] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
 
 ---
 
